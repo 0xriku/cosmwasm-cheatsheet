@@ -24,4 +24,4 @@ docker run --rm -v ${pwd}:/code `
  cosmwasm/rust-optimizer:0.12.6
  ```
 
- The binary will be under the folder `artifacts`.
+ The `wasm` binary will be under the folder `artifacts`.
